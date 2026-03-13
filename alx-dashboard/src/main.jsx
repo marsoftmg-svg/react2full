@@ -10,7 +10,7 @@ import {Provider} from "react-redux";
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Provider store={store}>
-<BrowserRouter basename='/alx-dashboard'>
+<BrowserRouter basename='/projekt_js_1'>
     <App />
 </BrowserRouter>
 
